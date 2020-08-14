@@ -1,0 +1,53 @@
+body {
+  font-family: "Sora", sans-serif;
+}
+
+h1 {
+  font-family: "Source Code Pro", monospace, sans-serif;
+}
+
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Sora", sans-serif;
+}
+h1 {
+  font-size: 40px;
+  line-height: 1.4em;
+  letter-spacing: -0.2px;
+  margin: 0px 400px 20px 0px;
+}
+
+body {
+  background-color: #8184e5;
+  color: beige;
+}
+
+a {
+  color: #d0ece7;
+  text-decoration: none;
+}
+header {
+  background-color: #366468;
+  color: #d2b4de;
+}
+
+.hero {
+  height: 300px;
+  background-image: url("../images/perfil.jpg");
+  background-size: 380px 290px;
+  background-repeat: no-repeat;
+  background-position-x: right;
+}
+
+.tecnologo {
+  border: 10px solid olive;
+}
+.carrera {
+  border: 10px solid olive;
+}
+.noFormal {
+  border: 10px solid olive;
+}
